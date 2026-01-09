@@ -1,6 +1,8 @@
 const lessons = [
     { title: "Урок 10", url: "lesson 10/index.html" },
     { title: "Урок 17 ", url: "lesson17/index.html" },
+    { title: "Урок 25 ", url: "lesson25/index.html" },
+
 ];
 
 const lessonsContainer = document.getElementById("lessons");
