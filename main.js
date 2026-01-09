@@ -1,5 +1,5 @@
 const lessons = [
-    { title: "Урок 1", url: "https://example.com/lesson1" },
+    { title: "Урок 10", url: "lesson10/index.html" },
   
 ];
 
