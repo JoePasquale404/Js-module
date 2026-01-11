@@ -3,6 +3,7 @@ const lessons = [
     { title: "Урок 17 ", url: "lesson17/index.html" },
     { title: "Урок 25 ", url: "lesson25/index.html" },
     { title: "Урок 31 ", url: "lesson31/index.html" },
+     { title: "Урок 39 ", url: "lesson39/index.html" },
 ];
 
 const lessonsContainer = document.getElementById("lessons");
